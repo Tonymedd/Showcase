@@ -1,6 +1,6 @@
 {
   "users": [
-    { "id": "TapNation", "hash": "3b0d7f27c3c261afb9123b9a669fc8df2d1abec93fe88006f374d746ef04fc1a", "active": true },
+    { "id": "TapNation", "hash": "3b0d7f27c3c261afb9123b9a669fc8df2d1abec93fe88006f374d746ef04fc1a", "active": false },
     { "id": "publisherB", "hash": "PUT_SHA256_HASH_HERE", "active": true }
   ]
 }
