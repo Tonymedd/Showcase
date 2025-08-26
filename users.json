@@ -1,6 +1,45 @@
 {
   "users": [
-    { "id": "TapNation", "hash": "3b0d7f27c3c261afb9123b9a669fc8df2d1abec93fe88006f374d746ef04fc1a", "active": true },
-    { "id": "AzureGames", "hash": "f79fdc7b891b2f2c2220891c6536fe508502195872c2610289932065c8905ae2", "active": true }
+    {
+      "id": "TapNation",
+      "hash": "3b0d7f27c3c261afb9123b9a669fc8df2d1abec93fe88006f374d746ef04fc1a",
+      "active": true
+    },
+    {
+      "id": "AzureGames",
+      "hash": "f79fdc7b891b2f2c2220891c6536fe508502195872c2610289932065c8905ae2",
+      "active": true
+    },
+    {
+      "id": "HomaGames",
+      "hash": "10ae45fb27fa2df9432eb01feaae8a7c43ea17a135b4cd65299754f6f1bcb5f3",
+      "active": true
+    },
+    {
+      "id": "VooDoo",
+      "hash": "4d74506196dbeb394b535f348dae3b39d4c6ca67cb204b1b9ce3faf64ba4f7e4",
+      "active": true
+    },
+    {
+      "id": "SayGames",
+      "hash": "62bf209cc93a1dcaf1313c111401d071ee24267b4e0c30975e949d19989c8bcd",
+      "active": true
+    },
+    {
+      "id": "Kwalee",
+      "hash": "e4d014a13e713de5c661cf37da45b7a1944845f98cff9f274748945b508b181e",
+      "active": true
+    },
+    {
+      "id": "OvivoGames",
+      "hash": "a4cd1794eedb5cc275c80b1e23bf0722bee6953d996a84dd15b0df66bad6844f",
+      "active": true
+    },
+    {
+      "id": "SquareEnix",
+      "hash": "58e29dcb3165a1adbae6af1ccd19e6735b096a0ec1866c8bc5b093939dc83916",
+      "active": true
+    }
+
   ]
 }
