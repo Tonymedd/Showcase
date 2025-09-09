@@ -33,32 +33,32 @@
     {
       "id": "OvivoGames",
       "hash": "a4cd1794eedb5cc275c80b1e23bf0722bee6953d996a84dd15b0df66bad6844f",
-      "active": true
+      "active": false
     },
     {
       "id": "SquareEnix",
       "hash": "58e29dcb3165a1adbae6af1ccd19e6735b096a0ec1866c8bc5b093939dc83916",
-      "active": true
+      "active": false
     },
     {
       "id": "GreenPanda",
       "hash": "31fd4947d38c96c2566c7f62481d07c4f5c3a40db2187b6ece7ba967a7a4aed2",
-      "active": true
+      "active": false
     },
     {
       "id": "BoomBit",
       "hash": "eff19fbeed192e54ff7e77a5b0499094666e5151c62585d4bd3e6d008f9d9339",
-      "active": true
+      "active": false
     },
     {
       "id": "CrazyLabs",
       "hash": "5cf87def6cad7d411486a1e5ae446bcf2613fe728161ae041318cacdf63514fa",
-      "active": true
+      "active": false
     },
     {
       "id": "Moonee",
       "hash": "6acef442ef413b860c3238db4650dfaa7ce0479911e39a563e3a4316bc9e8ce0",
-      "active": true
+      "active": false
     }
 
 
